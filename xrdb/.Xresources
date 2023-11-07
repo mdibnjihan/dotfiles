@@ -13,6 +13,7 @@ URxvt*scrollWithBuffer: false
 URxvt*skipScroll: true
 URxvt*fading: 30
 URxvt.geometry: 80x-1
+URxvt.letterSpace: -1
 ! special
 !*.foreground:   #d6e3d6
 *.foreground: #b6ccde
