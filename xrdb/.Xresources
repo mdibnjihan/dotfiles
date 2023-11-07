@@ -1,0 +1,53 @@
+! do not scroll with output
+URxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+URxvt*scrollTtyBuffer: true
+
+! scroll back to the bottom on keypress
+URxvt*scrollTtyKeypress: true
+URxvt.internalBorder: 4
+URxvt.font: xft:MesloLGS NF:size=8
+URxvt.scrollBar: false
+URxvt*scrollWithBuffer: false
+URxvt*skipScroll: true
+URxvt*fading: 30
+URxvt.geometry: 80x-1
+! special
+!*.foreground:   #d6e3d6
+*.foreground: #b6ccde
+!*.background:   #101c23
+*.background: #0b1014
+*.cursorColor:  #b6ccde
+
+! black
+*.color0:       #131b20
+*.color8:       #c2daee
+
+! red
+*.color1:       #1b232a
+*.color9:       #f1dae0
+
+! green
+*.color2:       #29353d
+*.color10:      #9bc978
+
+! yellow
+*.color3:       #3d4d58
+*.color11:      #e5a0b3
+
+! blue
+*.color4:       #566b7a
+*.color12:      #d3aae6
+
+! magenta
+*.color5:       #738fa3
+*.color13:      #a0ebdd
+
+! cyan
+*.color6:       #97b8d1
+*.color14:      #d1ad81
+
+! white
+*.color7:       #d9e4ed
+*.color15:      #91eada
