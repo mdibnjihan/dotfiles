@@ -54,5 +54,5 @@ fi
 # xterm -geometry 80x20+494-0 &
 
 exec xrandr --output eDP1 --off &
-exec feh --bg-fill /home/jihan/.wallpapers/linux-wallpaper.jpeg &
+exec feh --bg-fill /home/jihan/.wallpaper/watchtower_violet_linux.jpg &
 /usr/bin/i3
