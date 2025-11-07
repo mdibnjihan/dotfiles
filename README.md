@@ -24,4 +24,12 @@ This repositry contains files that makes the typical customization I would love 
             These files contains the customized cofiguration files for <code>i3-wn</code>. These files are typically place in <code>~/.config/i3/</code> directory.
         </td>
     </tr>
+    <tr>
+        <td>
+            VIMRC
+        </td>
+        <td>
+            This file is only applicable for Windows so, please be sure to understand the changes introduced before copying or replacing your files. Though, there are not much changes other than setting the tabstop to 2. (This is the one I like), Disables the generation of undofiles and backups. Typically bloats directories I think. So, I disabled them.
+        </td>
+    </tr>
 </table>
